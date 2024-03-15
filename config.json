@@ -1,0 +1,11 @@
+{
+    "main": {
+        "settings": {
+            "debug": {
+                "Version": "1.0",
+		"Owner": "Public",
+		"Link": "https://dash.cloudflare.com/"
+            }
+        }
+    }
+}
